@@ -1,0 +1,5 @@
+1. Created a client folder which is frontend
+2. Created a server folder which is backend
+3. server->dummydata.js From backend getting the data's into frontend(client->dummydata-GET.jsx)
+4. client->post.jsx From Frontend posting the data's to backend(server->routes.js)
+5. client->posteddata-GET.jsx In Frontend getting the posted data's where from (server->routes.js)
